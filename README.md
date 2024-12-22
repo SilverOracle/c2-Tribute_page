@@ -1,1 +1,1 @@
-My second fceeCodeCamp certification project (responsive web design)
+My second freeCodeCamp certification project (responsive web design)
